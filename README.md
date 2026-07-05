@@ -1,4 +1,4 @@
-<img src="https://github.com/jinsheng-ji/PD-Detection-Noise-Seperation/images/icon.png?raw=true" align="right" width="300" alt="header pic"/>
+<img src="images/icon.png?raw=true" align="right" width="300" alt="header pic"/>
 
 # PD-Detection-Noise-Seperation
 
@@ -17,7 +17,7 @@ clustered signal group, forming the PRPD pattern database. In order to identify 
 state-of-the-art methods, we demonstrate the performance of our method in achieving accurate PD recognition.
 
 ## Method Overview
-<img src="https://github.com/jinsheng-ji/PD-Detection-Noise-Seperation/images/framework.png" width="1000" />
+<img src="images/framework.png" width="1000" />
 
 ## Requirements
 
