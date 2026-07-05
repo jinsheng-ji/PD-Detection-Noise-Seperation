@@ -1,4 +1,4 @@
-<img src="images/icon.png?raw=true" align="right" width="300" alt="header pic"/>
+<img src="images/icon.png?raw=true" align="right" width="200" alt="header pic"/>
 
 # PD-Detection-Noise-Seperation
 
