@@ -93,8 +93,10 @@ python pd_noise_seperation.py
 python pd_recognition_train.py
 ```
 ## Defined PD types and edge-computing based PD detector
-<img src="https://github.com/jinsheng-ji/PD-Detection-Noise-Seperation/images/pd_detection.png" width="1000" />
+<img src="images/pd_detection.png" width="1000" />
 
+## PD-noise Seperation Results
+<img src="images/pd_noise_seperation_results.png" width="1000" />
 
 ## License 
 
